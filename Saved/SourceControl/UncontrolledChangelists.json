@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/SimpleGame_Dev/SimpleGame/Content/Maps/Test_Map.umap",
+				"E:/SimpleGame_Dev/SimpleGame/Content/Models/character.uasset",
+				"E:/SimpleGame_Dev/SimpleGame/Content/BP_Player.uasset",
+				"E:/SimpleGame_Dev/SimpleGame/Content/Test_Map.umap",
+				"E:/SimpleGame_Dev/SimpleGame/Content/BP_GameMode.uasset",
+				"E:/SimpleGame_Dev/SimpleGame/Content/Inputs/IMP_InputContext.uasset",
+				"E:/SimpleGame_Dev/SimpleGame/Content/Inputs/IA_Move.uasset",
+				"E:/SimpleGame_Dev/SimpleGame/Content/Inputs/IA_Look.uasset",
+				"E:/SimpleGame_Dev/SimpleGame/Content/Models/Ch36_Body.uasset",
+				"E:/SimpleGame_Dev/SimpleGame/Content/Models/character_PhysicsAsset.uasset",
+				"E:/SimpleGame_Dev/SimpleGame/Content/Models/character_Skeleton.uasset"
+			]
+		}
+	]
+}
